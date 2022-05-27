@@ -1,16 +1,36 @@
-# food_delivery
+# Table of contents
 
-A new Flutter project.
+  *  [General Info](#general-info)
+  *  [Technologies](#technologies)
+  *  [ScreenShots](#screenshots)
+  *  [App Installation](#app-installation)
 
-## Getting Started
+# General Info
 
-This project is a starting point for a Flutter application.
+This is my graduation project for a Flutter Training Course and it entails the use of API Requests, OOP, and Flutter Packages.
 
-A few resources to get you started if this is your first Flutter project:
+This project aims to test whether the student gained a certain amount of skill, knowledge, and experience from the course instructor.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Technologies
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The following are the Programming Language and Framework that I used to build this app:
+   * [Dart](https://dart.dev/get-dart) 2.16.1 
+   * [Flutter](https://docs.flutter.dev/get-started/install) 2.10.2 
+
+I also used IntelliJ IDEA 2021.1.3 as my IDE   
+
+The following are the Flutter Packages I used during the development of this app:
+   * [http](https://pub.dev/packages/http) 0.13.4, Used to make API requests to the back end server.
+   * [flutter_conditional_rendering](https://pub.dev/packages/flutter_conditional_rendering) 2.0.0, Used this package to render certain widgets according to a certain condition.
+   * [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) 0.9.2, Used this package to generate the launcher icon for the app.
+   * [flutter_app_name](https://pub.dev/packages/flutter_app_name) 0.1.1, Used this package to change the app name that appears under the app icon after installing it.
+
+## ScreenShots
+
+Currently app not finished.
+
+## App Installation
+
+ * Download the project from the repository.
+ * Build it through any IDE that can use Dart (Flutter).
+ * After that, you will find your apk inside the project folder called "build" through this path "build\app\outputs\flutter-apk".
