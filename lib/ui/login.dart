@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:food_delivery/utils/back_end_const_vars.dart' as backend;
 import 'package:food_delivery/utils/global_vars.dart' as global;
-import 'package:food_delivery/ui/home.dart';
 
 class Login extends StatefulWidget {
   const Login({Key? key}) : super(key: key);
