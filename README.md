@@ -24,6 +24,7 @@ The following are the Flutter Packages I used during the development of this app
    * [flutter_conditional_rendering](https://pub.dev/packages/flutter_conditional_rendering) 2.0.0, Used this package to render certain widgets according to a certain condition.
    * [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) 0.9.2, Used this package to generate the launcher icon for the app.
    * [flutter_app_name](https://pub.dev/packages/flutter_app_name) 0.1.1, Used this package to change the app name that appears under the app icon after installing it.
+   * [page_transition](https://pub.dev/packages/page_transition) 2.0.5, Used this package to animate navigation between UIs and even added a duration to the animation as some high-end devices have high Refresh Rate so the navigation and the animation of it occur super fast and the user don't see it or feel it which degrades the UX for the user and this package fixed this issue.
 
 ## ScreenShots
 

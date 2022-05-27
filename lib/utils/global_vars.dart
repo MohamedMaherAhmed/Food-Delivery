@@ -20,8 +20,13 @@ SharedPreferences? prefs;
 Map<String, dynamic> colorMap = {
   'Orange_Color': const Color(0xFFFE724C),
   'Anything_White': const Color(0xFFFFFFFF),
+  'Anything_Black': const Color(0xFF000000),
   'Black_With_Font_Weight_700': const Color(0xFF111719),
-
+  'Welcome_UI_Small_Body_Paragraphs': const Color(0xFF30384F),
+  'Welcome_UI_Bottom_Part_Gradient_Coloring_First_Color': const Color(0xFF494D63),
+  'Welcome_UI_Bottom_Part_Gradient_Coloring_Second_Color': const Color(0xFF191B2F),
+  'Welcome_UI_FB_Button_Icon_BackGround_Color': const Color(0xFF1877F2),
+  'Welcome_UI_Email_Login_Button_Text_Color': const Color(0xFFFEFEFE),
 };
 
 /// Shared Preferences GetInstance Func

@@ -31,6 +31,7 @@ class _LoginState extends State<Login> {
       global.getSharedPreferencesInstance();
       global.prefs?.setBool('loggedIn', true);
 
+      /// stupid code line , change the destination here to the first tutorial page
       Navigator.pushNamed(context, 'Login');
     } else {
       throw Exception('RESPONSE STATUS: ${response.statusCode}');
